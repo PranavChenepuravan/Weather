@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.back{
+  background-image: url("../src/sea.jpg");
+  height: 50rem;
+  background-size: 100%;
+  background-repeat: no-repeat ;
+  align-items: center;
+  
+}
+
+.dark{
+  background: black;
+}
+
+.light{
+  background: white;
+}
